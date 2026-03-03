@@ -6,7 +6,7 @@
 #define MAX_TIMESLOTS 15
 #define MAX_TIMESLOTS_PER_TA 2
 #define MAX_TIMESLOT_NAME 15
-#define MAX_SOLUTIONS 500
+#define MAX_SOLUTIONS 10
 
 typedef struct {
     char name[MAX_TIMESLOT_NAME]; //slot name i.e. Monday - 14:00
