@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/TA_TimeSlot_Assigner.dir/main.c.o CMakeFiles/TA_TimeSlot_Assigner.dir/csv_parser.c.o -o TA_TimeSlot_Assigner 
