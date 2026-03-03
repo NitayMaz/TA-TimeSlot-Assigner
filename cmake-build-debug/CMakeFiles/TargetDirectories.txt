@@ -1,0 +1,3 @@
+/mnt/c/Users/User/Desktop/TA-TimeSlot-Assigner/cmake-build-debug/CMakeFiles/TA_TimeSlot_Assigner.dir
+/mnt/c/Users/User/Desktop/TA-TimeSlot-Assigner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/User/Desktop/TA-TimeSlot-Assigner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
